@@ -104,7 +104,7 @@ The snapshot below an example of a validation message when a premature due date 
 
 The screenshot below shows a report displaying supplier names and the aggregated invoice and VAT amounts.
 
-![Supplier Invoice Summary Report](screenshots/summary-report-summary.png)
+![Supplier Invoice Summary Report](screenshots/summary-report.png)
 
 ## Installation and Setup
 
